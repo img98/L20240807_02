@@ -4,8 +4,9 @@
 #include "Goblin.h"
 #include "Slime.h"
 #include "Boar.h"
-
 using namespace std;
+
+//깃허브 커밋 실험
 
 template<typename T> //자료형을 변수처럼 받는다. 템플릿함수
 T Add(T A, T B)
